@@ -2,7 +2,7 @@
 layout: post
 title: "Đài quan sát Vĩnh Châu"
 author: sal
-categories: [check-in, nature]
+categories: [check-in, thiên nhiên]
 image: assets/images/check-in/dai-quan-sat1.jpg
 ---
 

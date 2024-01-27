@@ -2,7 +2,7 @@
 layout: post
 title: "Cánh đồng điện gió"
 author: john
-categories: [check-in, nature]
+categories: [check-in, thiên nhiên]
 tags: [red, yellow]
 image: assets/images/check-in/dien-gio2.jpg
 description: ""
