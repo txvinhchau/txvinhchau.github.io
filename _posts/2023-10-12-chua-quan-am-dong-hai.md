@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chùa Quan Âm Đông Hải"
-author: sal
+author: bt
 categories: [tâm linh, văn hóa]
 image: assets/images/spirituality/chua-quan-am-dong-hai1.jpg
 toc: true

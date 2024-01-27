@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vườn nhãn xuồng Vĩnh Châu"
-author: john
+author: bt
 categories: [check-in, thiên nhiên, ẩm thực]
 image: assets/images/check-in/nhan-xuong1.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cánh đồng điện gió Vĩnh Châu"
-author: sal
+author: bt
 categories: [check-in, thiên nhiên]
 image: assets/images/check-in/canh-dong-dien-gio.jpg
 ---

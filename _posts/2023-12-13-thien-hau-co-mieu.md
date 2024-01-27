@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thiên Hậu cổ miếu"
-author: sal
+author: bt
 categories: [tâm linh, văn hóa]
 image: assets/images/spirituality/mieu-ba-thien-hau1.jpg
 toc: true

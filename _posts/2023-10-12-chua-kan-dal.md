@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chùa Kan Đal"
-author: sal
+author: bt
 categories: [tâm linh, văn hóa]
 image: assets/images/spirituality/chua-kan-dal1.jpg
 toc: true

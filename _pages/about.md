@@ -12,7 +12,7 @@ comments: true
 <p>Hy vọng rằng Vĩnh Châu sẽ là vùng đất để lại ấn tượng trong lòng du khách thập phương.</p>
 <p>Xin cảm ơn!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/dai-quan-sat.jpg" alt="dai-quan-sat" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/check-in/dai-quan-sat1.jpg" alt="dai-quan-sat" /></p>
 
 </div>
 
