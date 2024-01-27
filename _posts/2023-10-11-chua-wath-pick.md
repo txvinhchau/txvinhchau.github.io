@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chùa Wath Pich"
-author: sal
+author: bt
 categories: [tâm linh, văn hóa]
 image: assets/images/spirituality/chua-wath-pick1.jpg
 toc: true

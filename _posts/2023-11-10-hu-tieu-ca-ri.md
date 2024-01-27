@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hủ tiếu cà ri"
-author: john
+author: bt
 categories: [ẩm thực]
 image: assets/images/food/hu-tieu-ca-ri1.jpg
 beforetoc: "Sau những cảnh đẹp thiên nhiên, những ngôi chùa, cổ tự theo nhiều nét phong cách đặc trưng thì bạn không thể bỏ qua những món ăn ngon mang đậm bản sắc của người dân địa phương, ngoài các món hải sản tươi ngon thì vẫn còn những món ăn đặc biệt khác để bạn nhớ mãi hương vị khi đến Vinh Châu"
