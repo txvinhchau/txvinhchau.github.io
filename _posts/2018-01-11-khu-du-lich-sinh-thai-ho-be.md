@@ -2,7 +2,7 @@
 layout: post
 title: "Khu du lịch sinh thái Hồ Bể"
 author: sal
-categories: [check-in]
+categories: [check-in, nature]
 image: assets/images/check-in/ho-be1.jpg
 featured: true
 hidden: false
