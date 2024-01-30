@@ -9,6 +9,7 @@ google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
+domainname: "https://txvinhchau.github.io"
 
 # Authors
 authors:
