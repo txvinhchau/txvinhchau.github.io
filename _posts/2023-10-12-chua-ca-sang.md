@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thiên Hậu cổ miếu"
+title: "Chùa Cà Săng"
 author: bt
 categories: [tâm linh, văn hóa]
 image: assets/images/spirituality/chua-ca-sang.webp
