@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: "Lễ Hội Phước Biển Vĩnh Châu"
 author: bt
 categories: [văn hóa]
