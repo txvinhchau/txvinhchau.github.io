@@ -2,7 +2,7 @@
 layout: post
 title: "Lễ Hội Phước Biển Vĩnh Châu"
 author: bt
-categories: [văn hóa tâm linh]
+categories: [văn hóa]
 image: assets/images/LEPHUOCBIEN.jpg
 
 ---
