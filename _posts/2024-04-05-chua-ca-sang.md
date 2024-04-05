@@ -2,7 +2,7 @@
 layout: post
 title: "Chùa Cà Săng"
 author: bt
-categories: [văn hóa]
+categories: [Văn Hóa Tâm Linh]
 image: assets/images/spirituality/chua-ca-sang.webp
 toc: true
 beforetoc: "Ngoài những địa điểm tham quan du lịch thì bạn không thể nào bỏ qua các ngôi chùa, cổ miếu là nét văn hóa tâm linh đặc trưng của vùng đất Vĩnh Châu. Bạn sẽ được khám phá các kiến trúc tỉ mĩ, hiện đại, hoành tráng theo nhiều phong cách thiết kế khác nhau."
