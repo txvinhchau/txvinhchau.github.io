@@ -2,7 +2,7 @@
 layout: post
 title: "Chùa Kan Đal"
 author: bt
-categories: [Văn Hóa Tâm Linh]
+categories: [Văn hóa tâm linh]
 image: assets/images/spirituality/chua-kan-dal1.jpg
 toc: true
 beforetoc: "Ngoài những địa điểm tham quan du lịch thì bạn không thể nào bỏ qua các ngôi chùa, cổ miếu là nét văn hóa tâm linh đặc trưng của vùng đất Vĩnh Châu. Bạn sẽ được khám phá các kiến trúc tỉ mĩ, hiện đại, hoành tráng theo nhiều phong cách thiết kế khác nhau."
